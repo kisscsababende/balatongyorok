@@ -1,2 +1,0 @@
-# balatongyorok
-balatongyorok.html
